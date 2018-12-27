@@ -1,0 +1,1657 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "3.10.0.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UIRes/erjitanchuangtongyongdi.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 38,
+            "Scale9OriginY": 38,
+            "Scale9Width": 132,
+            "Scale9Height": 130,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1104.0,
+              "Y": 621.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "ItemMargin": -20,
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 993.6,
+                  "Y": 623.3598
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 230,
+                  "G": 230,
+                  "B": 250
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.45,
+                  "Y": 0.5019
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.2
+                },
+                "LeftMargin": 331.2,
+                "RightMargin": 552.0,
+                "TopMargin": 494.4402,
+                "BottomMargin": 499.1598,
+                "Tag": 4,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/cardExample.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 272,
+                    "Scale9OriginY": 374,
+                    "Scale9Width": 283,
+                    "Scale9Height": 386,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 124.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0755,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.151,
+                      "Y": 1.2077
+                    },
+                    "RightMargin": 1124.8,
+                    "TopMargin": -25.8,
+                    "BottomMargin": -25.8,
+                    "Tag": 10,
+                    "ActionTag": 2058842002,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 300.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 244901835,
+                "Size": {
+                  "X": 1324.8,
+                  "Y": 248.4
+                },
+                "Name": "ListView_1",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/denglu_zhengchang.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 44,
+                "Scale9OriginY": 19,
+                "Scale9Width": 161,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1972.8479,
+                  "Y": 646.5852
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8935,
+                  "Y": 0.5206
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.4
+                },
+                "LeftMargin": 1752.0479,
+                "RightMargin": 14.3521,
+                "TopMargin": 347.0148,
+                "BottomMargin": 398.1852,
+                "Tag": 9,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "【毒娘子】:\n邪剑仙、酒剑仙、\n李逍遥、林月如、\n彩衣、雷灵珠\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "simhei.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 56.0675,
+                      "Y": 480.7112
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.127,
+                      "Y": 0.9676
+                    },
+                    "PreSize": {
+                      "X": 0.6091,
+                      "Y": 1.6506
+                    },
+                    "LeftMargin": 56.0675,
+                    "RightMargin": 116.5325,
+                    "TopMargin": 16.0888,
+                    "BottomMargin": -339.2888,
+                    "Tag": 30,
+                    "ActionTag": 134008219,
+                    "Size": {
+                      "X": 269.0,
+                      "Y": 820.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 759107910,
+                "Size": {
+                  "X": 441.6,
+                  "Y": 496.8
+                },
+                "Name": "Panel_2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/tansuo_heidi.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 34,
+                "Scale9OriginY": 5,
+                "Scale9Width": 108,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.1216,
+                  "Y": 610.3188
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0852,
+                  "Y": 0.4914
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.95
+                },
+                "LeftMargin": 22.5216,
+                "RightMargin": 1854.2783,
+                "TopMargin": 41.7312,
+                "BottomMargin": 20.3688,
+                "Tag": 21,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/wupin_mingchengdi.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 48,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 209,
+                    "Scale9Height": 50,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 136.1563,
+                      "Y": 922.4458
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4111,
+                      "Y": 0.7818
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.7,
+                      "Y": 0.04
+                    },
+                    "LeftMargin": 20.2363,
+                    "RightMargin": 79.1237,
+                    "TopMargin": 233.8562,
+                    "BottomMargin": 898.8478,
+                    "Tag": 23,
+                    "Children": [
+                      {
+                        "FontSize": 24,
+                        "LabelText": "敌方得分",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "simhei.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.2488,
+                          "Y": 31.845
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2124,
+                          "Y": 0.6747
+                        },
+                        "PreSize": {
+                          "X": 0.427,
+                          "Y": 0.5721
+                        },
+                        "LeftMargin": -0.2512,
+                        "RightMargin": 133.0912,
+                        "TopMargin": 1.851,
+                        "BottomMargin": 18.345,
+                        "Tag": 24,
+                        "ActionTag": -660848952,
+                        "Size": {
+                          "X": 99.0,
+                          "Y": 27.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 36,
+                        "LabelText": "100",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "simhei.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 149.067,
+                          "Y": 36.0732
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.643,
+                          "Y": 0.7643
+                        },
+                        "PreSize": {
+                          "X": 0.2415,
+                          "Y": 0.8687
+                        },
+                        "LeftMargin": 121.067,
+                        "RightMargin": 54.773,
+                        "TopMargin": -9.3772,
+                        "BottomMargin": 15.5732,
+                        "Tag": 25,
+                        "ActionTag": -1951897738,
+                        "Size": {
+                          "X": 56.0,
+                          "Y": 41.0
+                        },
+                        "Name": "Text_2",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -264979338,
+                    "Size": {
+                      "X": 231.84,
+                      "Y": 47.196
+                    },
+                    "Name": "Panel_6",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/wupin_mingchengdi.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 48,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 209,
+                    "Scale9Height": 50,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.2877,
+                      "Y": 255.5663
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3964,
+                      "Y": 0.2166
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.7,
+                      "Y": 0.04
+                    },
+                    "LeftMargin": 15.3677,
+                    "RightMargin": 83.9923,
+                    "TopMargin": 900.7357,
+                    "BottomMargin": 231.9684,
+                    "Tag": 26,
+                    "Children": [
+                      {
+                        "FontSize": 24,
+                        "LabelText": "我方得分",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "simhei.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 49.2488,
+                          "Y": 31.845
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2124,
+                          "Y": 0.6747
+                        },
+                        "PreSize": {
+                          "X": 0.427,
+                          "Y": 0.5721
+                        },
+                        "LeftMargin": -0.2512,
+                        "RightMargin": 133.0912,
+                        "TopMargin": 1.851,
+                        "BottomMargin": 18.345,
+                        "Tag": 27,
+                        "ActionTag": -2121656078,
+                        "Size": {
+                          "X": 99.0,
+                          "Y": 27.0
+                        },
+                        "Name": "Text_3",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 36,
+                        "LabelText": "100",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "simhei.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 149.067,
+                          "Y": 36.0732
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.643,
+                          "Y": 0.7643
+                        },
+                        "PreSize": {
+                          "X": 0.2415,
+                          "Y": 0.8687
+                        },
+                        "LeftMargin": 121.067,
+                        "RightMargin": 54.773,
+                        "TopMargin": -9.3772,
+                        "BottomMargin": 15.5732,
+                        "Tag": 28,
+                        "ActionTag": -779253007,
+                        "Size": {
+                          "X": 56.0,
+                          "Y": 41.0
+                        },
+                        "Name": "Text_4",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1115775669,
+                    "Size": {
+                      "X": 231.84,
+                      "Y": 47.196
+                    },
+                    "Name": "Panel_7",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ItemMargin": -180,
+                    "VerticalType": "Align_VerticalCenter",
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/haoyoudengjidi.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 14,
+                    "Scale9Height": 14,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -48.024,
+                      "Y": 21.0022
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -0.145,
+                      "Y": 0.0178
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.9,
+                      "Y": 0.1695
+                    },
+                    "LeftMargin": -48.024,
+                    "RightMargin": 81.144,
+                    "TopMargin": 958.9048,
+                    "BottomMargin": 21.0022,
+                    "Tag": 21,
+                    "ActionTag": 2028397174,
+                    "Size": {
+                      "X": 298.08,
+                      "Y": 199.993
+                    },
+                    "Name": "ListView_4",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "ItemMargin": -180,
+                    "VerticalType": "Align_VerticalCenter",
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/haoyoudengjidi.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 14,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -48.024,
+                      "Y": 972.0016
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": -0.145,
+                      "Y": 0.8238
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.9,
+                      "Y": 0.1695
+                    },
+                    "LeftMargin": -48.024,
+                    "RightMargin": 81.144,
+                    "TopMargin": 7.9054,
+                    "BottomMargin": 972.0016,
+                    "Tag": 30,
+                    "ActionTag": 176307572,
+                    "Size": {
+                      "X": 298.08,
+                      "Y": 199.993
+                    },
+                    "Name": "ListView_5",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/denglu_zhengchang.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 48,
+                    "Scale9OriginY": 12,
+                    "Scale9Width": 127,
+                    "Scale9Height": 73,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 165.6,
+                      "Y": 589.95
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.9,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": 16.56,
+                    "RightMargin": 16.56,
+                    "TopMargin": 353.97,
+                    "BottomMargin": 353.97,
+                    "Tag": 42,
+                    "Children": [
+                      {
+                        "FontSize": 36,
+                        "LabelText": "请选择1张手牌丢弃\n\n\n\n\n\n\n\n\n\n\n",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "simhei.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": -4.727,
+                          "Y": 461.8979
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0159,
+                          "Y": 0.9787
+                        },
+                        "PreSize": {
+                          "X": 1.0333,
+                          "Y": 1.0425
+                        },
+                        "LeftMargin": -4.727,
+                        "RightMargin": -5.193,
+                        "TopMargin": 10.0621,
+                        "BottomMargin": -30.1021,
+                        "Tag": 43,
+                        "ActionTag": 711462047,
+                        "Size": {
+                          "X": 308.0,
+                          "Y": 492.0
+                        },
+                        "Name": "TipsText",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -19359300,
+                    "Size": {
+                      "X": 298.08,
+                      "Y": 471.96
+                    },
+                    "Name": "TipsPanel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1364485921,
+                "Size": {
+                  "X": 331.2,
+                  "Y": 1179.9
+                },
+                "Name": "Panel_4",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ItemMargin": -20,
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 993.6,
+                  "Y": 174.0042
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.45,
+                  "Y": 0.1401
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.2
+                },
+                "LeftMargin": 331.2,
+                "RightMargin": 552.0,
+                "TopMargin": 943.7958,
+                "BottomMargin": 49.8042,
+                "Tag": 31,
+                "ActionTag": -478176313,
+                "Size": {
+                  "X": 1324.8,
+                  "Y": 248.4
+                },
+                "Name": "ListView_2",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ItemMargin": -20,
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 993.6,
+                  "Y": 1067.7474
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.45,
+                  "Y": 0.8597
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.6,
+                  "Y": 0.2
+                },
+                "LeftMargin": 331.2,
+                "RightMargin": 552.0,
+                "TopMargin": 50.0526,
+                "BottomMargin": 943.5474,
+                "Tag": 18,
+                "ActionTag": 249980395,
+                "Size": {
+                  "X": 1324.8,
+                  "Y": 248.4
+                },
+                "Name": "ListView_3",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/haoyoudengjidi.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 13,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1987.2,
+                  "Y": 1073.709
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9,
+                  "Y": 0.8645
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.161
+                },
+                "LeftMargin": 1887.1775,
+                "RightMargin": 120.7776,
+                "TopMargin": 68.3101,
+                "BottomMargin": 973.728,
+                "Tag": 20,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "ButtonText": "新手引导",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "simhei.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "G": 165,
+                      "B": 0
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/wupin_xiangqing.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 24,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 101,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.6049,
+                      "Y": 101.3832
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4979,
+                      "Y": 0.507
+                    },
+                    "PreSize": {
+                      "X": 0.6998,
+                      "Y": 0.3301
+                    },
+                    "LeftMargin": 29.6049,
+                    "RightMargin": 30.4399,
+                    "TopMargin": 65.5788,
+                    "BottomMargin": 68.3832,
+                    "Tag": 30,
+                    "ActionTag": 263292328,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 66.0
+                    },
+                    "Name": "guideBtn",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1004856961,
+                "Size": {
+                  "X": 200.0448,
+                  "Y": 199.962
+                },
+                "Name": "Panel_9",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/haoyoudengjidi.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 13,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1987.2,
+                  "Y": 193.5036
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9,
+                  "Y": 0.1558
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.161
+                },
+                "LeftMargin": 1887.1775,
+                "RightMargin": 120.7776,
+                "TopMargin": 948.5154,
+                "BottomMargin": 93.5226,
+                "Tag": 21,
+                "ActionTag": -388599597,
+                "Size": {
+                  "X": 200.0448,
+                  "Y": 199.962
+                },
+                "Name": "Panel_10",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/confirmbutton.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/confirmbutton.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/confirmbutton.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 141,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1117.3866,
+                  "Y": 360.3026
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5061,
+                  "Y": 0.2901
+                },
+                "PreSize": {
+                  "X": 0.0774,
+                  "Y": 0.0628
+                },
+                "LeftMargin": 1031.8866,
+                "RightMargin": 1005.1134,
+                "TopMargin": 842.6974,
+                "BottomMargin": 321.3026,
+                "Tag": 20,
+                "ActionTag": -1256321946,
+                "Size": {
+                  "X": 171.0,
+                  "Y": 78.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/zhuangshihuaL.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 47,
+                "Scale9OriginY": 10,
+                "Scale9Width": 49,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 635.0208,
+                  "Y": 397.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2876,
+                  "Y": 0.32
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.18,
+                  "Y": 0.053
+                },
+                "LeftMargin": 436.3008,
+                "RightMargin": 1374.2592,
+                "TopMargin": 811.647,
+                "BottomMargin": 364.527,
+                "Tag": 44,
+                "ActionTag": 1640977456,
+                "Size": {
+                  "X": 397.44,
+                  "Y": 65.826
+                },
+                "Name": "Image_18",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/zhuangshihuaR.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 47,
+                "Scale9OriginY": 10,
+                "Scale9Width": 48,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1317.5137,
+                  "Y": 397.44
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5967,
+                  "Y": 0.32
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.18,
+                  "Y": 0.053
+                },
+                "LeftMargin": 1118.7937,
+                "RightMargin": 691.7664,
+                "TopMargin": 811.647,
+                "BottomMargin": 364.527,
+                "Tag": 45,
+                "ActionTag": 1787026953,
+                "Size": {
+                  "X": 397.44,
+                  "Y": 65.826
+                },
+                "Name": "Image_19",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "当前回合",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "MFJianHei_Noncommercial-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 936.3742,
+                  "Y": 400.4208
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4241,
+                  "Y": 0.3224
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.029
+                },
+                "LeftMargin": 859.3742,
+                "RightMargin": 1194.6257,
+                "TopMargin": 823.5792,
+                "BottomMargin": 382.4208,
+                "Tag": 48,
+                "ActionTag": 822014270,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 36.0
+                },
+                "Name": "TurnText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 72,
+                "LabelText": "10",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Marker Felt.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {},
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1071.2251,
+                  "Y": 395.1921
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 252,
+                  "G": 132,
+                  "B": 2
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4852,
+                  "Y": 0.3182
+                },
+                "PreSize": {
+                  "X": 0.0267,
+                  "Y": 0.0612
+                },
+                "LeftMargin": 1041.7251,
+                "RightMargin": 1107.2749,
+                "TopMargin": 808.8079,
+                "BottomMargin": 357.1921,
+                "Tag": 49,
+                "ActionTag": 907524528,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 76.0
+                },
+                "Name": "TurnNumberText",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1785770505,
+            "Size": {
+              "X": 2208.0,
+              "Y": 1242.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 2208.0,
+          "Y": 1242.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "Marker Felt.ttf",
+        "MFJianHei_Noncommercial-Regular.ttf",
+        "simhei.ttf",
+        "UIRes/cardExample.jpg",
+        "UIRes/confirmbutton.png",
+        "UIRes/denglu_zhengchang.png",
+        "UIRes/erjitanchuangtongyongdi.png",
+        "UIRes/haoyoudengjidi.png",
+        "UIRes/tansuo_heidi.png",
+        "UIRes/wupin_mingchengdi.png",
+        "UIRes/wupin_xiangqing.png",
+        "UIRes/zhuangshihuaL.png",
+        "UIRes/zhuangshihuaR.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

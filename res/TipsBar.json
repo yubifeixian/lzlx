@@ -1,0 +1,139 @@
+{
+  "ID": "62a8f5be-ff8f-48b3-9f47-3993faacd7e3",
+  "Version": "3.10.0.0",
+  "Name": "TipsBar",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 31,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UIRes/hudongdi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 186,
+            "Scale9OriginY": 48,
+            "Scale9Width": 192,
+            "Scale9Height": 50,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1104.0,
+              "Y": 1117.7999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewX": 180.0,
+            "RotationSkewY": 180.0,
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2
+            },
+            "TopMargin": 0.0001,
+            "BottomMargin": 993.5999,
+            "Tag": 32,
+            "ActionTag": 58791923,
+            "Size": {
+              "X": 2208.0,
+              "Y": 248.4
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "dsafdsfdsfdsafsdafdsfdsafasdfsdafdsafdsdfasdfsdafasdfdsafsadfsadfdsafdfadsfdsafasdfsadf\ndsafdfdsafsadfdsafsdafsdafsadfdsafsdafsdafsdafsadfsdafdsafasdfsdafasdfsdaadsfsdfsdafsdf\ndsafdfdsafsadfdsafsdafsdafsadfdsafsdafsdafsdafsadfsdafdsafasdfsdafasdfsdaadsfsdfsdafsdf",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "simhei.ttf",
+              "Plist": ""
+            },
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 53.0752,
+              "Y": 1114.4332
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.024,
+              "Y": 0.8973
+            },
+            "PreSize": {
+              "X": 0.9461,
+              "Y": 0.1329
+            },
+            "LeftMargin": 53.0752,
+            "RightMargin": 65.9248,
+            "TopMargin": 45.0668,
+            "BottomMargin": 1031.9332,
+            "Tag": 33,
+            "ActionTag": 1855810808,
+            "Size": {
+              "X": 2089.0,
+              "Y": 165.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 2208.0,
+          "Y": 1242.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "simhei.ttf",
+        "UIRes/hudongdi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,393 @@
+{
+  "ID": "881e7bb4-f741-4f2d-bcb4-1f150491acbf",
+  "Version": "3.10.0.0",
+  "Name": "CardMessageLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 71,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UIRes/xinjiandi.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 174,
+            "Scale9OriginY": 215,
+            "Scale9Width": 180,
+            "Scale9Height": 222,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 620.4005,
+              "Y": 242.9084
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.281,
+              "Y": 0.1956
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.3,
+              "Y": 0.6
+            },
+            "LeftMargin": 620.4005,
+            "RightMargin": 925.1995,
+            "TopMargin": 253.8916,
+            "BottomMargin": 242.9084,
+            "Tag": 72,
+            "Children": [
+              {
+                "FontSize": 36,
+                "LabelText": "这是尴尬无敌的名字",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 331.2,
+                  "Y": 691.4979
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9279
+                },
+                "PreSize": {
+                  "X": 0.4921,
+                  "Y": 0.055
+                },
+                "LeftMargin": 168.2,
+                "RightMargin": 168.2,
+                "TopMargin": 33.202,
+                "BottomMargin": 670.9979,
+                "Tag": 74,
+                "ActionTag": 480581508,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 41.0
+                },
+                "Name": "NameText",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "分值:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.4717,
+                  "Y": 626.4946
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1713,
+                  "Y": 0.8407
+                },
+                "PreSize": {
+                  "X": 0.1298,
+                  "Y": 0.055
+                },
+                "LeftMargin": 70.4717,
+                "RightMargin": 505.9283,
+                "TopMargin": 98.2054,
+                "BottomMargin": 605.9946,
+                "Tag": 75,
+                "ActionTag": 1859137960,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 41.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "40",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.5667,
+                  "Y": 626.4949
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 151,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2877,
+                  "Y": 0.8407
+                },
+                "PreSize": {
+                  "X": 0.0574,
+                  "Y": 0.055
+                },
+                "LeftMargin": 171.5667,
+                "RightMargin": 452.8333,
+                "TopMargin": 98.205,
+                "BottomMargin": 605.9949,
+                "Tag": 76,
+                "ActionTag": -241152936,
+                "Size": {
+                  "X": 38.0,
+                  "Y": 41.0
+                },
+                "Name": "Text_2_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "组合:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.4717,
+                  "Y": 578.0036
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1713,
+                  "Y": 0.7756
+                },
+                "PreSize": {
+                  "X": 0.1298,
+                  "Y": 0.055
+                },
+                "LeftMargin": 70.4717,
+                "RightMargin": 505.9283,
+                "TopMargin": 146.6964,
+                "BottomMargin": 557.5036,
+                "Tag": 77,
+                "ActionTag": 1548555044,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 41.0
+                },
+                "Name": "Text_2_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "李逍遥，魔剑，景天，醒世恒言\n\n\n\n\n\n\n\n\n\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 82.7681,
+                  "Y": 547.8477
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.125,
+                  "Y": 0.7352
+                },
+                "PreSize": {
+                  "X": 0.7609,
+                  "Y": 0.6052
+                },
+                "LeftMargin": 82.7681,
+                "RightMargin": 75.6319,
+                "TopMargin": 197.3523,
+                "BottomMargin": 96.8477,
+                "Tag": 78,
+                "ActionTag": 1859463473,
+                "Size": {
+                  "X": 504.0,
+                  "Y": 451.0
+                },
+                "Name": "Text_5",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 385487108,
+            "Size": {
+              "X": 662.4,
+              "Y": 745.2
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 2208.0,
+          "Y": 1242.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "simhei.ttf",
+        "UIRes/xinjiandi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

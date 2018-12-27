@@ -1,0 +1,324 @@
+{
+  "ID": "3687be4b-9587-4d41-abb3-3e76c8c9560a",
+  "Version": "3.10.0.0",
+  "Name": "CheckCardLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 56,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UIRes/xindikuangx.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 81,
+            "Scale9OriginY": 98,
+            "Scale9Width": 86,
+            "Scale9Height": 23,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1104.0,
+              "Y": 621.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 59,
+            "Children": [
+              {
+                "ItemMargin": 30,
+                "VerticalType": "Align_VerticalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 76,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/piaochuang.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 125,
+                "Scale9OriginY": 30,
+                "Scale9Width": 179,
+                "Scale9Height": 5,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1104.0,
+                  "Y": 621.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.5
+                },
+                "LeftMargin": 110.4,
+                "RightMargin": 110.3999,
+                "TopMargin": 310.5,
+                "BottomMargin": 310.5,
+                "Tag": 60,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/cardExample2.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 272,
+                    "Scale9OriginY": 374,
+                    "Scale9Width": 283,
+                    "Scale9Height": 386,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 150.0,
+                      "Y": 310.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0755,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.151,
+                      "Y": 0.6441
+                    },
+                    "RightMargin": 1687.2,
+                    "TopMargin": 110.5,
+                    "BottomMargin": 110.5,
+                    "Tag": 61,
+                    "ActionTag": 1370078111,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 400.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -558533891,
+                "Size": {
+                  "X": 1987.2,
+                  "Y": 621.0
+                },
+                "Name": "ListView_2",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UIRes/guanbi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 22,
+                "Scale9OriginY": 22,
+                "Scale9Width": 23,
+                "Scale9Height": 23,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1953.0898,
+                  "Y": 1129.4114
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8846,
+                  "Y": 0.9093
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.07,
+                  "Y": 0.12
+                },
+                "LeftMargin": 1875.8098,
+                "RightMargin": 177.6301,
+                "TopMargin": 38.0686,
+                "BottomMargin": 1054.8914,
+                "Tag": 69,
+                "ActionTag": -1948026863,
+                "Size": {
+                  "X": 154.56,
+                  "Y": 149.04
+                },
+                "Name": "Image_9",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 48,
+                "LabelText": "长按卡片可查看详细信息",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "simhei.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1104.0,
+                  "Y": 1024.2532
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8247
+                },
+                "PreSize": {
+                  "X": 0.2396,
+                  "Y": 0.0443
+                },
+                "LeftMargin": 839.5,
+                "RightMargin": 839.5,
+                "TopMargin": 190.2468,
+                "BottomMargin": 996.7532,
+                "Tag": 79,
+                "ActionTag": 274838494,
+                "Size": {
+                  "X": 529.0,
+                  "Y": 55.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1836960756,
+            "Size": {
+              "X": 2208.0,
+              "Y": 1242.0
+            },
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 2208.0,
+          "Y": 1242.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "simhei.ttf",
+        "UIRes/cardExample2.jpg",
+        "UIRes/guanbi.png",
+        "UIRes/piaochuang.png",
+        "UIRes/xindikuangx.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
