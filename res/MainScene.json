@@ -1320,6 +1320,191 @@
                 "TopMargin": 948.5154,
                 "BottomMargin": 93.5226,
                 "Tag": 21,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "MFJianHei_Noncommercial-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/task00008.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 90,
+                    "Scale9Height": 98,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.5928,
+                      "Y": 82.3999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5178,
+                      "Y": 0.4121
+                    },
+                    "PreSize": {
+                      "X": 0.5999,
+                      "Y": 0.6001
+                    },
+                    "LeftMargin": 43.5928,
+                    "RightMargin": 36.452,
+                    "TopMargin": 57.5621,
+                    "BottomMargin": 22.3999,
+                    "Tag": 31,
+                    "ActionTag": -1310026702,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 120.0
+                    },
+                    "Name": "Button_3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "成就",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "simhei.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.9281,
+                      "Y": 159.4932
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 165,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4745,
+                      "Y": 0.7976
+                    },
+                    "PreSize": {
+                      "X": 0.3699,
+                      "Y": 0.205
+                    },
+                    "LeftMargin": 57.9281,
+                    "RightMargin": 68.1167,
+                    "TopMargin": 19.9688,
+                    "BottomMargin": 138.9932,
+                    "Tag": 32,
+                    "ActionTag": -1353121985,
+                    "Size": {
+                      "X": 74.0,
+                      "Y": 41.0
+                    },
+                    "Name": "Text_7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UIRes/hongdian.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 8,
+                    "Scale9Width": 10,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 178.2339,
+                      "Y": 185.8102
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.891,
+                      "Y": 0.9292
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 158.2294,
+                    "RightMargin": 1.8064,
+                    "TopMargin": -5.8444,
+                    "BottomMargin": 165.814,
+                    "Tag": 33,
+                    "ActionTag": -2098634084,
+                    "Size": {
+                      "X": 40.009,
+                      "Y": 39.9924
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
                 "ActionTag": -388599597,
                 "Size": {
                   "X": 200.0448,
@@ -1644,7 +1829,9 @@
         "UIRes/denglu_zhengchang.png",
         "UIRes/erjitanchuangtongyongdi.png",
         "UIRes/haoyoudengjidi.png",
+        "UIRes/hongdian.png",
         "UIRes/tansuo_heidi.png",
+        "UIRes/task00008.png",
         "UIRes/wupin_mingchengdi.png",
         "UIRes/wupin_xiangqing.png",
         "UIRes/zhuangshihuaL.png",

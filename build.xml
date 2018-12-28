@@ -271,6 +271,7 @@
                 <file name="src/view/tipsBar.js"/>
                 <file name="src/control/handle.js"/>
                 <file name="src/control/check.js"/>
+                <file name="src/view/achievementLayer.js"/>
                 <file name="src/view/tipsLayer.js"/>
                 <file name="src/view/clippingLayer.js"/>
                 <file name="src/view/resultLayer.js"/>
